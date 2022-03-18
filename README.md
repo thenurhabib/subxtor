@@ -24,8 +24,6 @@
 
 ### subxtor is a fastest tool to find subdomain via dork.
 
-<br>
-
 ### Main Features
 - Subdomain Enumeration.
 - Faster than any other subdomain enumeration tool
